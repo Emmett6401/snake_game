@@ -29,3 +29,5 @@ CELL_SIZE: 뱀과 먹이의 크기를 설정합니다. 모든 요소는 이 크�
 pygame.display.set_mode: 게임 화면을 생성합니다.
 pygame.display.set_caption: 게임 창의 제목을 설정합니다.
 
+## 실행 화면 
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/3186768e-58d0-4e8f-bc3e-2f5edfab5543" />
